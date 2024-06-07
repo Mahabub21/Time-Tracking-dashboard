@@ -44,9 +44,9 @@ Technologies Used
 
 How to Use
 
-1. Clone the repository: git clone [https://github.com/Sefat-Khan/time-tracking-dashboard.git](https://github.com/Sefat-Khan/Time-Tracking-dashboard.git)
+1. Clone the repository: git clone https://github.com/Mahabub21/Time-Tracking-dashboard.git
 2. Open the index.html file in your web browser.
-3. Preview:https://sefat-khan.github.io/Time-Tracking-dashboard/.
+3. Preview:https:/.
 
 Credits
 
