@@ -46,7 +46,7 @@ How to Use
 
 1. Clone the repository: git clone https://github.com/Mahabub21/Time-Tracking-dashboard.git
 2. Open the index.html file in your web browser.
-3. Preview link:.
+3. Preview link: https://mahabub21.github.io/Time-Tracking-dashboard/.
 
 4. preview: ![Screenshot_1](https://github.com/Mahabub21/Time-Tracking-dashboard/assets/158444199/1f64923b-666a-4be1-a401-2babfc8fe0a2)
 
